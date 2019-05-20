@@ -30,7 +30,7 @@ tema: white
   </section>
   <section
   data-background="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg"
-  *style="color:white>
+  *style="color:white">
   <p><small><a href="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">Fuente: Wikimedia</a></small></p>
   </section>
   <section>
