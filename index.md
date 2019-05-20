@@ -19,7 +19,6 @@ tema: white
 </section>
 
 <section>
-  <h2>Los inicios</h2>
   <section>
   <ul>
   <li>Ciclo Formativo de Grado Superior en Administración de Sistemas
@@ -29,9 +28,9 @@ tema: white
   </ul>
   </section>
   <section
-  data-background="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg"
-  *style="color:white">
-  <p><small><a href="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">Fuente: Wikimedia</a></small></p>
+  data-background="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">
+  <div class="footer">
+  <p><small><a href="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">Fuente: Wikimedia</a></small></p></div>
   </section>
   <section>
   <p>Caballos</p>
@@ -42,6 +41,6 @@ tema: white
   <li>53 % de paro</li>
   <li>20 % de población sin estudios</li>
   </ul>
-  <p><small><a href="https://www.diariodesevilla.es/sevilla/pobreza-exclusion-marginalidad-barrios-sevilla_0_1284472134.html">Fuente: Diario de Sevilla. Septiembre 2018</a></small></p>
+  <div class="footer"><p><small><a href="https://www.diariodesevilla.es/sevilla/pobreza-exclusion-marginalidad-barrios-sevilla_0_1284472134.html">Fuente: Diario de Sevilla. Septiembre 2018</a></small></p></div>
   </section>
 </section>
