@@ -30,7 +30,7 @@ tema: white
   <section
   data-background="img/campus.jpg">
   </section>
-  <section data-background="img/panorama.jpg">
+  <section data-background="img/panorama.png">
   <p>Zona Sur de Dos Hermanas</p>
   <ul>
   <li>53 % de paro</li>
