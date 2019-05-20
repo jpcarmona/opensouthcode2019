@@ -20,22 +20,17 @@ tema: white
 
 <section>
   <section>
-  <ul>
-  <li>Ciclo Formativo de Grado Superior en Administración de Sistemas
-  Informáticos en Red: CFGS ASIR</li>
-  <li>European Higher Education Area con ISCED-5</li>
-  <li>¡Guau!</li>
-  </ul>
+  <h2>Ciclo Formativo de Grado Superior en Administración de Sistemas 
+  Informáticos en Red</h2>
   </section>
   <section
   data-background="img/campus.jpg">
+  <p><span class="fragment white">European Higher Education Area con ISCED-5</span></p>
   </section>
   <section data-background="img/panorama.png">
   <p>Zona Sur de Dos Hermanas</p>
-  <ul>
-  <li>53 % de paro</li>
-  <li>20 % de población sin estudios</li>
-  </ul>
+  <p>53 % de paro</p>
+  <p>20 % de población sin estudios</p>
   <div class="footer"><p><small><a href="https://www.diariodesevilla.es/sevilla/pobreza-exclusion-marginalidad-barrios-sevilla_0_1284472134.html">Fuente: Diario de Sevilla. Septiembre 2018</a></small></p></div>
   </section>
 </section>
