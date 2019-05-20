@@ -28,14 +28,9 @@ tema: white
   </ul>
   </section>
   <section
-  data-background="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">
-  <div class="footer">
-  <p><small><a href="https://upload.wikimedia.org/wikipedia/commons/a/a3/Universit%C3%A9_Missouri_School_of_Journalism.jpg">Fuente: Wikimedia</a></small></p></div>
+  data-background="img/campus.jpg">
   </section>
-  <section>
-  <p>Caballos</p>
-  </section>
-  <section>
+  <section data-background="img/panorama.jpg">
   <p>Zona Sur de Dos Hermanas</p>
   <ul>
   <li>53 % de paro</li>
