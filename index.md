@@ -173,7 +173,7 @@ tema: white
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
 <li>Sistemas de control de versiones: git</li>
-<li>Orquestación de la infraestructu5ra: vafrant, terraform, heat, ...</li>
+<li>Orquestación de la infraestructura: vafrant, terraform, heat, ...</li>
 <li>Gestión de la configuración: ansible</li>
 <li>Trabajo con contenedores: docker, kuberenetes,...</li>
 <li>PaaS: heroku, openshift,...</li>
