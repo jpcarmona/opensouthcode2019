@@ -147,7 +147,7 @@ tema: white
 <li>Proyecto de lenguaje de marcas</li>
 </ul>
 </section>
-<section data-background="img/redmine.png">
+<section data-background-image="img/redmine.png" data-background-size="600px" data-background-repeat="repeat">
 <h3>Gestión de proyectos</h3>
 </section>
 <section>
