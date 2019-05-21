@@ -192,3 +192,8 @@ tema: white
 <section>
 <h3>Relación con las empresas</h3>
 </section>
+<section>
+<h3>Y las dos actividades que marcan la diferencia...</h3>
+</section>
+<section data-background="img/convivencia.png"/> 
+<section data-background="img/paella.png"/> 
