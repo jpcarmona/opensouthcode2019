@@ -92,12 +92,30 @@ tema: white
 <li>Inglés</li>
 <li>Entusiasmo</li>
 </ul>
+</section>
 <section>
-<h3>¿Cómo empezamos a dar clases?</h3>
-<p>Tal como las hemos recibido:</p>
+<h3>¿Los mejores profesores?</h3>
+<p>¿Cómo empezamos a dar clases? Tal como las hemos recibido:</p>
 <ul>
 <li>Abusando de lecciones magistrales</li>
+<li>Preparando apuntes</li>
 <li>Asumiendo que mayor dificultad es equivalente a mayor nivel</li>
 <li>Evaluando mediante exámenes escritos</li>
 </ul>
+</section>
+<section>
+<h3>¿Los mejores profesores?</h3>
+<ul>
+<li>No podemos ser expertos en todos los campos, menos aún en informática</li>
+<li>Cambio de rol: No transmitimos conocimiento, guiamos y ayudamos a que los alumnos aprendan.</li>
+<li>Metodologı́as que fomenten el aprendizaje a través de la práctica</li>
+<li>Promover el aprender a aprender</li>
+<li>Evaluar todo el aprendizaje</li>
+<li>Estar dispuestos a cambiar de nuevo</li>
+</ul>
+</section>
+<section>
+<h3>¿Las mejores herramientas</h3>
+<p><strong>Software libre</strong></p>
+</section>
 </section>
