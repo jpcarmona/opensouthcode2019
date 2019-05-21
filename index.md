@@ -58,6 +58,7 @@ tema: white
   <li>Conexión a Internet por ADSL</li>
   <li>2 aulas con proyector y pizarra</li>
   <li>2000-3000 € anuales para compras de material</li>
+  <li>2000 horas de formación (2 cursos)</li>
   </ul>
   </section>
   <section>
@@ -95,10 +96,11 @@ tema: white
 </section>
 <section>
 <h3>¿Los mejores profesores?</h3>
-<p>¿Cómo empezamos a dar clases? Tal como las hemos recibido:</p>
+<p>¿Cómo empezamos a dar clases?</p>
+<p>Tal como las hemos recibido:</p>
 <ul>
 <li>Abusando de lecciones magistrales</li>
-<li>Preparando apuntes</li>
+<li>Preparando apuntes / utilizando libros de texto</li>
 <li>Asumiendo que mayor dificultad es equivalente a mayor nivel</li>
 <li>Evaluando mediante exámenes escritos</li>
 </ul>
@@ -115,7 +117,24 @@ tema: white
 </ul>
 </section>
 <section>
-<h3>¿Las mejores herramientas</h3>
-<p><strong>Software libre</strong></p>
+<h3>¿Las mejores herramientas?</h3>
+<p><strong><span style="color: rgb(255,25,25);">Software libre</strong></p>
+<ul>
+<li>Disponibilidad y uso de software sin limitaciones</li>
+<li>Innovación y uso de las últimas tecnologías</li>
+<li>Aprendizaje significativo que "obliga" a comprender el funcionamiento de lo que usamos</li>
+<li>Trump no puede decidir que no lo usemos</li>
+</ul>
 </section>
+</section>
+<section>
+<h3>GNU/Linux en el escritorio</h3>
+</section>
+<section>
+<h3>Cambios en contenidos</h3>
+<ul>
+<li>Pasamos de un tema final de GNU/Linux a ser el sistema principal</li>
+<li>Pasamos de utilizar Turbo C a introducir la programación con python</li>
+<li>Pasamos de dar redes en Cisco a utilizar software libre</li>
+</ul>
 </section>
