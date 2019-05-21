@@ -50,7 +50,7 @@ tema: white
     <li>Ubicación: 16 km del centro de Sevilla</li>
     </ul>
   </section>
-  <section>
+  <section data-background="img/CentroTIC.png">
   <h3>Recursos iniciales</h3>
   <ul>
   <li>Mesas y sillas</li>
@@ -60,6 +60,7 @@ tema: white
   <li>2000-3000 € anuales para compras de material</li>
   <li>2000 horas de formación (2 cursos)</li>
   </ul>
+  <p style="text-align: left; position: relative; left: 40px;"><small><a href="https://upload.wikimedia.org/wikipedia/commons/6/66/CentroTIC.png">Fuente: Wikimedia</a></small></p>
   </section>
   <section>
   <h3>Objetivo</h3>
@@ -146,8 +147,8 @@ tema: white
 <li>Proyecto de lenguaje de marcas</li>
 </ul>
 </section>
-<section>
-<h3>Gestión de proyectos: redmine</h3>
+<section data-background="img/redmine.jpg">
+<h3>Gestión de proyectos</h3>
 </section>
 <section>
 <h3>Conocimiento libre</h3>
