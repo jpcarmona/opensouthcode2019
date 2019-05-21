@@ -138,3 +138,24 @@ tema: white
 <li>Pasamos de dar redes en Cisco a utilizar software libre</li>
 </ul>
 </section>
+<section>
+<h3>Ejemplos</h3>
+<ul>
+<li>Compilación del kérnel linux</li>
+</ul>
+</section>
+<section>
+<h3>Servicios</h3>
+</section>
+<section>
+<h3>Cloud Computing</h3>
+</section>
+<section>
+<h3>Infraestructura, servidores, etc.</h3>
+</section>
+<section>
+<h3>Nuevas herramientas y futuro</h3>
+</section>
+<section>
+<h3>Relación con las empresas</h3>
+</section>
