@@ -147,7 +147,7 @@ tema: white
 <li>Proyecto de lenguaje de marcas</li>
 </ul>
 </section>
-<section data-background-image="img/redmine.png" data-background-size="600px" data-background-repeat="repeat">
+<section data-background="img/redmine.png"> 
 <h3>Gestión de proyectos</h3>
 </section>
 <section>
@@ -169,7 +169,7 @@ tema: white
 <section>
 <h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
 </section>
-<section data-background="img/devops.png">
+<section data-background="img/devops.png" data-background-size="600px" data-background-repeat="repeat">
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
 <li>Sistemas de control de versiones: git</li>
