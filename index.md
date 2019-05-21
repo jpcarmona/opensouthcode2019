@@ -127,28 +127,36 @@ tema: white
 </ul>
 </section>
 </section>
-<section>
-<h3>GNU/Linux en el escritorio</h3>
+<section data-background="https://wiki.debian.org/DebianArt/Themes/futurePrototype?action=AttachFile&do=get&target=login-1920x1080.png">
+<h3>2006 fue el año de GNU/Linux en el escritorio</h3>
 </section>
 <section>
-<h3>Cambios en contenidos</h3>
+<h3>Se comienza con cambios en contenidos</h3>
 <ul>
-<li>Pasamos de un tema final de GNU/Linux a ser el sistema principal</li>
-<li>Pasamos de utilizar Turbo C a introducir la programación con python</li>
-<li>Pasamos de dar redes en Cisco a utilizar software libre</li>
+<li>De un tema final de GNU/Linux a ser el sistema principal en Sistemas Operativos</li>
+<li>De utilizar Turbo C a introducir la programación con python</li>
+<li>De basar las explicaciones en redes en productos de Cisco a utilizar software libre</li>
 </ul>
 </section>
 <section>
-<h3>Ejemplos</h3>
+<h3>Algunos ejemplos más concretos</h3>
 <ul>
 <li>Compilación del kérnel linux</li>
+<li>Servicios de Internet</li>
+<li>Proyecto de lenguaje de marcas</li>
 </ul>
 </section>
 <section>
-<h3>Servicios</h3>
+<h3>Gestión de proyectos: redmine</h3>
 </section>
 <section>
-<h3>Uso de redmine, con fines educativos</h3>
+<h3>Conocimiento libre</h3>
+<ul>
+<li>Compartir y poner disponible en Internet todos los materiales generados</li>
+<li>Utilización de licencias libres</li>
+<li>Uso de repositorios públicos</li>
+<li>Los alumnos se acostumbran y tienden a imitar</li>
+</ul>
 </section>
 <section>
 <h3>Cloud Computing</h3>
@@ -161,6 +169,14 @@ tema: white
 </section>
 <section>
 <h3>Nuevas herramientas y futuro</h3>
+</section>
+<section>
+<h3>Percepción por parte de los alumnos</h3>
+<ul>
+<li>Inicialmente eran reacios: Esto está muy bonito, pero ... ¿cómo voy a hacer dinero con algo gratis?</li>
+<li>Con el tiempo lo valoran muy positivamente</li>
+<li>Hoy en día saben la gran demanda que hay en el mercado</li>
+<li>Hay quien se implica en proyectos de software libre</li>
 </section>
 <section>
 <h3>Relación con las empresas</h3>
