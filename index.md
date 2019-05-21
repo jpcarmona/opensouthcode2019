@@ -24,8 +24,8 @@ tema: white
   Informáticos en Red</h3>
   </section>
   <section data-background="img/campus.jpg">
-  <p style="text-align: left; position: relative; left: 40px;"><span
-  style="color: rgb(1,1,1);">European Higher Education Area con
+  <p style="position: absolute; z-index: 1; top: 1200%;"><span
+  style="color: rgb(255,255,255);">European Higher Education Area con
   ISCED-5</span></p>
   </section>
   <section data-background="img/panorama.png">
@@ -44,10 +44,25 @@ tema: white
 	 <li>Bachillerato: 139</li>
 	 <li>SMR: 50</li>
 	 <li>ASIR: 55</li>
-	</ul>
+	</ul></li>
     <li>Proveniente en su mayoría de todo el municipio</li>
     <li>En ASIR también de localidades cercanas</li>
     <li>Ubicación: 16 km del centro de Sevilla</li>
     </ul>
   </section>
+  <section>
+  <h3>Recursos iniciales</h3>
+  <ul>
+  <li>Mesas y sillas</li>
+  <li>1 PC por cada dos alumnos</li>
+  <li>Conexión a Internet por ADSL</li>
+  <li>2 aulas con proyector y pizarra</li>
+  <li>2000-3000 € anuales para compras de material</li>
+  </ul>
+  </section>
+  <section>
+  <h3>Objetivo</h3>
+  <p>Formar administradores de sistemas con conocimientos de las últimas tecnologías y con opciones de trabajar en cualquier puesto a nivel mundial</p>
+  </section>
 </section>
+
