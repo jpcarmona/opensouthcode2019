@@ -161,7 +161,7 @@ tema: white
 </section>
 <section>
 <h3>Cloud Computing</h3>
-<img src=img/opengonzalo.png alt="Logo opengonzalo" border="0"/>
+<p><img src=img/opengonzalo.png alt="Logo opengonzalo" border="0"/></p>
 </section>
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
@@ -179,6 +179,7 @@ tema: white
 <li>Con el tiempo lo valoran muy positivamente</li>
 <li>Hoy en día saben la gran demanda que hay en el mercado</li>
 <li>Hay quien se implica en proyectos de software libre</li>
+</ul>
 </section>
 <section>
 <h3>Relación con las empresas</h3>
