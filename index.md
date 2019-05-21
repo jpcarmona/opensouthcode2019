@@ -146,7 +146,7 @@ tema: white
 </section>
 <section>
 <h3>Servicios</h3>
-</section
+</section>
 <section>
 <h3>Uso de redmine, con fines educativos</h3>
 </section>
