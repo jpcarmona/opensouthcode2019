@@ -161,7 +161,7 @@ tema: white
 </section>
 <section>
 <h3>Cloud Computing</h3>
-<p><img src=img/opengonzalo.png alt="Logo opengonzalo" border="0"/></p>
+<p><img src="img/opengonzalo.png" alt="Logo opengonzalo" border="0"/></p>
 </section>
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
