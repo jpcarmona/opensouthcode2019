@@ -146,12 +146,18 @@ tema: white
 </section>
 <section>
 <h3>Servicios</h3>
+</section
+<section>
+<h3>Uso de redmine, con fines educativos</h3>
 </section>
 <section>
 <h3>Cloud Computing</h3>
 </section>
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
+</section>
+<section>
+<h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
 </section>
 <section>
 <h3>Nuevas herramientas y futuro</h3>
