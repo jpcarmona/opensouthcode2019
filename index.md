@@ -118,7 +118,7 @@ tema: white
 </section>
 <section>
 <h3>¿Las mejores herramientas?</h3>
-<p><strong><span style="color: rgb(255,25,25);">Software libre</strong></p>
+<p><strong><span style="color: rgb(255,25,25);">Software libre</span></strong></p>
 <ul>
 <li>Disponibilidad y uso de software sin limitaciones</li>
 <li>Innovación y uso de las últimas tecnologías</li>
