@@ -62,7 +62,42 @@ tema: white
   </section>
   <section>
   <h3>Objetivo</h3>
-  <p>Formar administradores de sistemas con conocimientos de las últimas tecnologías y con opciones de trabajar en cualquier puesto a nivel mundial</p>
+  <p>Proporcionar la mejor formación posible a futuros administradores de sistemas para que tengan</p>
+  <ul>
+  <li>Autonomía</li>
+  <li>Conocimientos de las últimas tecnologías</li>
+  <li>Altos niveles de inserción laboral</li>
+  <li>Capacidad de trabajar en cualquier empresa</li>
+  </ul>
+  </section>
+  <section>
+  <h3>¿Objetivo alcanzable?</h3>
   </section>
 </section>
-
+<section>
+<section>
+<h3>¿Podemos formar a los mejores administradores de sistemas?</h3>
+<h2>Sí</h2>
+<ul>
+<li>Los mejores alumnos</li>
+<li>Los mejores profesores</li>
+<li>Las mejores herramientas</li>
+</ul>
+</section>
+<section>
+<h3>¿Los mejores alumnos?</h3>
+<ul>
+<li>Comprensión lectora</li>
+<li>Conocimientos básicos de matemáticas</li>
+<li>Inglés</li>
+<li>Entusiasmo</li>
+</ul>
+<section>
+<h3>¿Cómo empezamos a dar clases?</h3>
+<p>Tal como las hemos recibido:</p>
+<ul>
+<li>Abusando de lecciones magistrales</li>
+<li>Asumiendo que mayor dificultad es equivalente a mayor nivel</li>
+<li>Evaluando mediante exámenes escritos</li>
+</ul>
+</section>
