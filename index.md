@@ -169,7 +169,7 @@ tema: white
 <section>
 <h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
 </section>
-<section>
+<section data-background="img/devops.png">
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
 <li>Sistemas de control de versiones: git</li>
