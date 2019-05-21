@@ -195,7 +195,7 @@ tema: white
 <section>
 <h3>Y las dos actividades que marcan la diferencia...</h3>
 </section>
-<section data-background="img/convivencia.png"> 
+<section data-background="img/convivencia.jpg"> 
 </section>
-<section data-background="img/paella.png"> 
+<section data-background="img/paella.jpg"> 
 </section>
