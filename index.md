@@ -208,7 +208,7 @@ tema: white
 <li>git</li>
 <li>vagrant, terraform, heat</li>
 <li>ansible</li>
-<li>lxc, docker, kuberenetes</li>
+<li>lxc, docker, kubernetes</li>
 <li>openshift</li>
 <li>Trabajo con APIs restful</li>
 <li>Integración continua</li>
