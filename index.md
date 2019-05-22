@@ -182,7 +182,7 @@ tema: white
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
 </section>
-<section data-background="img/devops.png" data-background-size="300px">
+<section data-background="img/devops.png" data-background-size="1024px">
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
 <li>git</li>
