@@ -60,7 +60,7 @@ tema: white
   <li>2000-3000 € anuales para compras de material</li>
   <li>2000 horas de formación (2 cursos)</li>
   </ul>
-  <p style="text-align: left; position: relative; left: 40px;"><small><a href="https://upload.wikimedia.org/wikipedia/commons/6/66/CentroTIC.png">Fuente: Wikimedia</a></small></p>
+  <p style="text-align: left; position: relative; left: 40px;"><small><a href="https://upload.wikimedia.org/wikipedia/commons/6/66/CentroTIC.png">Imagen obtenida de Wikimedia</a></small></p>
   </section>
   <section>
   <h3>Objetivo</h3>
@@ -127,8 +127,9 @@ tema: white
 </ul>
 </section>
 </section>
-<section data-background="https://wiki.debian.org/DebianArt/Themes/futurePrototype?action=AttachFile&do=get&target=login-1920x1080.png">
-<h3>2006 fue el año de GNU/Linux en el escritorio</h3>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/4/4b/Debian-etch-gnome.png">
+  <h3>2006 fue el año de GNU/Linux en el escritorio</h3>
+  <p style="text-align: left; position: relative; left: 40px;"><small><a href=https://upload.wikimedia.org/wikipedia/commons/4/4b/Debian-etch-gnome.png">Imagen obtenida de Wikimedia</a></small></p>
 </section>
 <section>
 <h3>Se comienza con cambios en contenidos</h3>
