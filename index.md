@@ -71,15 +71,13 @@ tema: white
   <li>Altos niveles de inserción laboral</li>
   <li>Capacidad de trabajar en cualquier empresa</li>
   </ul>
-  </section>
-  <section>
-  <h3>¿Objetivo alcanzable?</h3>
+  <p>¿Objetivo alcanzable?</p>
   </section>
 </section>
 <section>
 <section>
 <h3>¿Podemos formar a los mejores administradores de sistemas?</h3>
-<h2>Sí</h2>
+<h2><span style="color: rgb(255,25,25);">Sí</span></h2>
 <ul>
 <li>Los mejores alumnos</li>
 <li>Los mejores profesores</li>
@@ -88,6 +86,7 @@ tema: white
 </section>
 <section>
 <h3>¿Los mejores alumnos?</h3>
+<h4>¿Qué requisitos son necesarios?</h4>
 <ul>
 <li>Comprensión lectora</li>
 <li>Conocimientos básicos de matemáticas</li>
@@ -160,24 +159,38 @@ tema: white
 </ul>
 </section>
 <section>
-<h3>Cloud Computing</h3>
-<img src="img/opengonzalo.png" alt="Logo opengonzalo"/>
+<h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
+</section>
+<section>
+  <section data-background="img/logo-suma.png">
+  <h3>Cloud Computing</h3>
+  </section>
+  <section>
+  <h3>Proyecto de innovación</h3>
+  <ul>
+  <li><a href="http://www2.gonzalonazareno.org/cloud/">Implantación y puesta a punto de la infraestructura de un cloud computing privado para el despliegue de servicios en la nube</a></li>
+  <li>Adquisición de equipamiento</li>
+  <li>Instalación y configuración de OpenStack</li>
+  <li>Uso masivo de recursos de computación en el aula</li>
+  </ul>
+  </section>
+  <section>
+  <h3>OpenStack como vector de innovación</h3>
+  </section>
 </section>
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
 </section>
-<section>
-<h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
-</section>
-<section data-background="img/devops.png" data-background-size="600px" data-background-repeat="repeat">
+<section data-background="img/devops.png" data-background-size="2000px">
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
-<li>Sistemas de control de versiones: git</li>
-<li>Orquestación de la infraestructura: vagrant, terraform, heat, ...</li>
-<li>Gestión de la configuración: ansible</li>
-<li>Trabajo con contenedores: docker, kuberenetes,...</li>
-<li>PaaS: heroku, openshift,...</li>
-<li>Trabajo con API restful</li>
+<li>git</li>
+<li>vagrant, terraform, heat</li>
+<li>ansible</li>
+<li>lxc, docker, kuberenetes</li>
+<li>openshift</li>
+<li>Trabajo con APIs restful</li>
+<li>Integración continua</li>
 </ul>
 </section>
 <section>
@@ -193,9 +206,11 @@ tema: white
 <h3>Relación con las empresas</h3>
 </section>
 <section>
-<h3>Y las dos actividades que marcan la diferencia...</h3>
+<section>
+<h3>Y las dos actividades que marcan la diferencia ...</h3>
 </section>
 <section data-background="img/convivencia.jpg"> 
 </section>
 <section data-background="img/paella.jpg"> 
+</section>
 </section>
