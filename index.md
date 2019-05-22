@@ -180,7 +180,26 @@ tema: white
   </section>
 </section>
 <section>
-<h3>Infraestructura, servidores, etc.</h3>
+<section>
+<h3>Evolución de la infraestructura</h3>
+<ul>
+<li>Recursos propios</li>
+<li>Financiación de proyectos</li>
+<li>Donaciones</li>
+<li>Mucho trabajo</li>
+</section>
+<section>
+<ul>
+<li>120 puestos cableados con cat 6</li>
+<li>1 equipo por alumno</li>
+<li>2 talleres para prácticas</li>
+<li>Servidores proporcionando: DNS, DHCP, VPN, LDAP, Radius, etc.</li>
+<li>Acceso a Internet con fibra óptica</li>
+<li>Nube privada con OpenStack</li>
+</ul>
+</section>
+<section data-background="img/equipamiento.png" data-background-size="1024px">
+</section>
 </section>
 <section data-background="img/devops.png" data-background-size="1024px">
 <h3>Nuevas herramientas y futuro</h3>
