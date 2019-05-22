@@ -129,7 +129,7 @@ tema: white
 </section>
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/4/4b/Debian-etch-gnome.png">
   <h3>2006 fue el año de GNU/Linux en el escritorio</h3>
-  <p style="text-align: left; position: relative; left: 40px;"><small><a href=https://upload.wikimedia.org/wikipedia/commons/4/4b/Debian-etch-gnome.png">Imagen obtenida de Wikimedia</a></small></p>
+  <p style="text-align: left; position: relative; left: 40px;"><small><a href="https://upload.wikimedia.org/wikipedia/commons/4/4b/Debian-etch-gnome.png">Imagen obtenida de Wikimedia</a></small></p>
 </section>
 <section>
 <h3>Se comienza con cambios en contenidos</h3>
@@ -182,7 +182,7 @@ tema: white
 <section>
 <h3>Infraestructura, servidores, etc.</h3>
 </section>
-<section data-background="img/devops.png" data-background-size="2000px">
+<section data-background="img/devops.png">
 <h3>Nuevas herramientas y futuro</h3>
 <ul>
 <li>git</li>
@@ -193,6 +193,10 @@ tema: white
 <li>Trabajo con APIs restful</li>
 <li>Integración continua</li>
 </ul>
+</section>
+<section>
+<h3>Proyectos</h3>
+<p><a href="http://informatica.gonzalonazareno.org/proyectos/">http://informatica.gonzalonazareno.org/proyectos/</a></p>
 </section>
 <section>
 <h3>Percepción por parte de los alumnos</h3>
@@ -208,7 +212,7 @@ tema: white
 </section>
 <section>
 <section>
-<h3>Y las dos actividades que marcan la diferencia ...</h3>
+<h3>Y las dos actividades que marcan la diferencia</h3>
 </section>
 <section data-background="img/convivencia.jpg"> 
 </section>
