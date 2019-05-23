@@ -198,7 +198,7 @@ tema: white
   <li>Material de prácticas: switches, routers, servidores, etc.</li>
   </ul>
   </section>
-  <section data-background="img/equipamiento.png" data-background-size="1024px">
+  <section data-background="img/equipamiento.jpg" data-background-size="1024px">
   </section>
 </section>
 <section data-background="img/devops.png" data-background-size="1024px">
