@@ -66,10 +66,10 @@ tema: white
   <h3>Objetivo</h3>
   <p>Proporcionar la mejor formación posible a futuros administradores de sistemas para que tengan</p>
   <ul>
-  <li>Autonomía</li>
   <li>Conocimientos de las últimas tecnologías</li>
+  <li>Completa autonomía</li>
   <li>Altos niveles de inserción laboral</li>
-  <li>Capacidad de trabajar en cualquier empresa</li>
+  <li>Preparación para trabajar en cualquier empresa</li>
   </ul>
   <p>¿Objetivo alcanzable?</p>
   </section>
@@ -86,7 +86,7 @@ tema: white
 </section>
 <section>
 <h3>¿Los mejores alumnos?</h3>
-<h4>¿Qué requisitos son necesarios?</h4>
+<p>¿Qué requisitos son necesarios?</p>
 <ul>
 <li>Comprensión lectora</li>
 <li>Conocimientos básicos de matemáticas</li>
@@ -145,22 +145,20 @@ tema: white
 <li>Compilación del kérnel linux</li>
 <li>Servicios de Internet</li>
 <li>Proyecto de lenguaje de marcas</li>
+<li>Escenarios de redes con linux bridges y KVM</li>
 </ul>
 </section>
 <section data-background="img/redmine.png"> 
-<h3>Gestión de proyectos</h3>
+<h3>Tareas como proyectos con redmine</h3>
 </section>
 <section>
 <h3>Conocimiento libre</h3>
 <ul>
 <li>Compartir y poner disponible en Internet todos los materiales generados</li>
-<li>Utilización de licencias libres</li>
-<li>Uso de repositorios públicos</li>
+<li>Utilizar de licencias libres</li>
+<li>Usar de repositorios públicos</li>
 <li>Los alumnos se acostumbran y tienden a imitar</li>
 </ul>
-</section>
-<section>
-<h3>Ejemplo: Proyecto interdisciplinar: configuración de servidores</h3>
 </section>
 <section>
   <section data-background="img/logo-suma.png">
@@ -197,6 +195,7 @@ tema: white
   <li>Servidores proporcionando: DNS, DHCP, VPN, LDAP, Radius, etc.</li>
   <li>Acceso a Internet con fibra óptica</li>
   <li>Nube privada con OpenStack</li>
+  <li>Material de prácticas: switches, routers, servidores, etc.</li>
   </ul>
   </section>
   <section data-background="img/equipamiento.png" data-background-size="1024px">
