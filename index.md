@@ -45,14 +45,14 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
     <ul>
       <li>Desde repositorio oficial AWX (con Ansible)
         <ul>
-          <li>Repositorio AWX<a href="https://github.com/ansible/awx"></a></li>
+          <li><a href="https://github.com/ansible/awx">Repositorio AWX</a></li>
           <li>Editamos variables en inventory</li>
           <li>Ejecutamos playbook de Ansible</li>
         </ul>
       </li>
       <li>Desde mi propio repositorio (docker-compose)
         <ul>
-          <li>Repositorio proyecto<a href="https://github.com/jpcarmona/proyectoawx/tree/master/awxcompose"></a></li>
+          <li><a href="https://github.com/jpcarmona/proyectoawx/tree/master/awxcompose">Repositorio proyecto</a></li>
           <li>Editamos variables docker-compose</li>
           <li>Ejecutamos docker-compose</li>
         </ul>
