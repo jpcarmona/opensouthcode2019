@@ -4,8 +4,8 @@ title: Proyecto de Gesti처n y configuraci처n de software con AWX e implementaci�
 tema: white
 ---
 <section>
-	<h2>Proyecto de Gesti처n y configuraci처n de software con AWX e implementaci처n Hosting</h2>
-	<h3>Proyecto 2ASIR 2019</h3>
+	<h2>Proyecto 2ASIR 2019</h2>
+	<h3>Gesti처n y configuraci처n de software con AWX e implementaci처n Hosting</h3>
 		<small>
 		<a href="https://jpcarmona.github.io/web/">Juan pedro Carmona Romero</a>
 		</small>
@@ -89,7 +89,6 @@ AWX es un proyecto de comunidad de c처digo abierto, patrocinado por Red Hat, que
   </section>
 
   <section>
-    <h2>HOSTING JP</h2>
     <img src="img/hosting.png">
   </section>
 
