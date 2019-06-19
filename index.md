@@ -91,7 +91,7 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
   </section>
 
   <section>
-    <img src="img/hosting.png" height="90%" width="90%">
+    <img src="img/hosting.png" height="90%" width="70%">
   </section>
 
   <section>
