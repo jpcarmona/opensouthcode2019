@@ -93,6 +93,13 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
   </section>
 
   <section>
+  <h2>Creación infraestructura</h2>
+  <p>
+    
+  </p>
+  </section>
+
+  <section>
   <h2>DEMO - Creación infraestructura</h2>
   </section>
 
