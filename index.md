@@ -70,7 +70,7 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
   </section>
 
   <section>
-  <h2>Géstión de proyectos de automatización de tareas</h2>
+  <h2>Gestión de proyectos de automatización de tareas</h2>
   <p>
     
   </p>
