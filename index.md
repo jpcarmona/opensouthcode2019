@@ -1,15 +1,14 @@
 ---
 layout: presentacion
-title: El truco era el software libre
+title: Proyecto de Gestión y configuración de software con AWX e implementación Hosting
 tema: white
 ---
 <section>
-	<h2>El truco era el software libre</h2>
-	<h3>OpenSouthCode 2019</h3>
+	<h2>Proyecto de Gestión y configuración de software con AWX e implementación Hosting</h2>
+	<h3>Proyecto 2ASIR 2019</h3>
 	<h4>Formando administradores de sistemas en el IES Gonzalo Nazareno</h4>
 		<small>
-		<a href="http://albertomolina.wordpress.com">Alberto Molina Coballes</a> y
-		<a href="http://www.josedomingo.org">José Domingo Muñoz Rodríguez</a>
+		<a href="https://jpcarmona.github.io/web/">Juan pedro Carmona Romero</a>
 		</small>
 	<p>
 		<a href="http://creativecommons.org/licenses/by-sa/3.0/">
@@ -19,9 +18,107 @@ tema: white
 </section>
 
 <section>
+
   <section>
-  <h3>Ciclo Formativo de Grado Superior en Administración de Sistemas 
-  Informáticos en Red</h3>
+  <h2>AWX</h2>
+  <ul>
+   <li>¿ Qué es AWX ?</li>
+   <li>Componentes de AWX</li>
+   <li>Instalación</li>
+   <li>Gestión de proyectos de automatización de tareas</li>
+  </ul>
+  </section>
+
+  <section>
+  <h2>¿ Qué es AWX ?</h2>
+  <p>
+AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que permite a los usuarios controlar mejor el uso de sus proyecto de Ansible en entornos de TI. Deriva del proyecto anterior que se ofertaba como Red Hat Ansible Tower.
+  </p>
+  </section>
+
+  <section data-background="img/diagrama_AWX.png">
+  <h2>Componentes de AWX</h2>
+  </section>
+
+  <section>
+  <h2>Instalación</h2>
+  <ul>
+   <li>Mediante repositorio oficial AWX</li>
+      <ul>
+        <li><a href="https://github.com/ansible/awx"></li>
+        <li>Editamos variables en inventory</li>
+        <li>Ejecutamos playbook de Ansible</li>
+        <li>Métodos de instalación</li>
+        <ul>
+          <li>Openshift</li>
+          <li>Kubernetes</li>
+          <li>En local con Docker</li>
+        </ul>
+       </ul>
+   <li>Componentes de AWX</li>
+  </ul>
+  </section>
+
+  <section>
+  <h2>Géstión de proyectos de automatización de tareas</h2>
+  <p>
+    
+  </p>
+  </section>
+
+</section>
+
+
+<section>
+
+  <section>
+  <h2>Despliegue de Hosting automatizado</h2>
+  <ul>
+   <li>¿ Qué es AWX ?</li>
+   <li>Componentes de AWX</li>
+   <li>Instalación</li>
+   <li>Géstión de proyectos de automatización de tareas</li>
+  </ul>
+  </section>
+
+  <section>
+  <h2>¿ Qué es AWX ?</h2>
+  <p>
+    
+  </p>
+  </section>
+
+  <section>
+  <h2>Componentes de AWX</h2>
+  <p>
+    
+  </p>
+  </section>
+
+  <section>
+  <h2>Instalación</h2>
+  <p>
+    
+  </p>
+  </section>
+
+  <section>
+  <h2>Géstión de proyectos de automatización de tareas</h2>
+  <p>
+    
+  </p>
+  </section>
+
+</section>
+
+
+
+
+
+
+<section>
+  <section>
+  <h3>AWX</h3>
   </section>
   <section data-background="img/campus.jpg">
   <p style="position: absolute; z-index: 1; top: 1200%;"><span
