@@ -6,7 +6,6 @@ tema: white
 <section>
 	<h2>Proyecto de Gestión y configuración de software con AWX e implementación Hosting</h2>
 	<h3>Proyecto 2ASIR 2019</h3>
-	<h4>Formando administradores de sistemas en el IES Gonzalo Nazareno</h4>
 		<small>
 		<a href="https://jpcarmona.github.io/web/">Juan pedro Carmona Romero</a>
 		</small>
@@ -36,8 +35,9 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
   </p>
   </section>
 
-  <section data-background="img/diagrama_AWX.png">
+  <section>
   <h2>Componentes de AWX</h2>
+  <img src="img/diagrama_AWX.png">
   </section>
 
   <section>
