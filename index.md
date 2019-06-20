@@ -71,9 +71,12 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
 
   <section>
   <h2>Gestión de proyectos de automatización de tareas</h2>
-  <p>
-    
-  </p>
+  <ul>
+    <li>Credenciales</li>
+    <li>Proyectos</li>
+    <li>Inventarios</li>
+    <li>Plantillas de trabajo</li>
+  </ul>
   </section>
 
 </section>
@@ -95,32 +98,11 @@ AWX es un proyecto de comunidad de código abierto, patrocinado por Red Hat, que
   </section>
 
   <section>
-  <h2>Creación infraestructura</h2>
-  <p>
-    
-  </p>
-  </section>
-
-  <section>
   <h2>DEMO - Creación infraestructura</h2>
   </section>
 
   <section>
-  <h2>Instalación y configuración servidores</h2>
-  <p>
-    
-  </p>
-  </section>
-
-  <section>
   <h2>DEMO - Instalación y configuración servidores</h2>
-  </section>
-
-  <section>
-  <h2>Despliegue de aplicación</h2>
-  <p>
-    
-  </p>
   </section>
 
   <section>
